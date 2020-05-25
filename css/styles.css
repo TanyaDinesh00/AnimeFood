@@ -1,7 +1,8 @@
 body {
   margin: 0;
   /* font-family: "Comic Sans MS", cursive, sans-serif; */
-  font-family: "Gloria Hallelujah", cursive;
+  /* font-family: "Gloria Hallelujah", cursive; */
+  font-family: monaco, Consolas, Lucida Console, monospace;
   background-color: honeydew;
 }
 * {
