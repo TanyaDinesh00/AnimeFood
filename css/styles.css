@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: medium;
+  background-color: honeydew;
+}
+* {
+  box-sizing: border-box;
+}
+.menu_card {
+  background-color: grey;
+  border: 3px solid black;
+  margin: 20px;
+}
+.outter_card {
+  float: left;
+}
+section {
+  padding: 10px;
+  clear: right;
+}
+.itemname {
+  width: 100px;
+  border: 3px solid black;
+  border-top: 0px;
+  border-right: 0px;
+  margin: 0px;
+  float: right;
+  font-size: 125%;
+  text-align: center;
+  font-weight: bold;
+}
+h1 {
+  text-align: center;
+  font-size: 175%;
+}
+#p1 {
+  background-color: pink;
+}
+#p2 {
+  background-color: #c14543;
+  color: white;
+}
+#p3 {
+  background-color: #e5d198;
+}
+
+#header-nav {
+  background-color: rgba(36, 122, 21, 0.486);
+}
+.logo-2line {
+  float: left;
+  vertical-align: middle;
+}
+span {
+  font-size: large;
+  font-weight: bolder;
+}
+
+.carousel-inner{
+  width:100%;
+  max-height: 85vh !important;
+}
+
+hr{
+  border-top: 5px solid rgba(128, 128, 128, 0.247);
+  border-radius: 8px;
+  width: 10%;
+  margin: 15px auto;
+  clear: both;
+}
+
+#map-id{
+  background-color: bisque;
+}
